@@ -27,9 +27,8 @@ FUNZIONALITÀ:
 3° funzionalità: Si può ovviamente modificare i check eche deve fare sul file config.yml sempre nella cartella del plugin
 COMANDI:
 1° Comando: /shield lookup <player> (controlla i flag del player salvati nel file .json)
-2° Comando: /shield reset <player> (Resetta i flag di quel player) <-------------------
-                                                                                      |
-PERMESSI:                                                                             |    
-         baseshield.alerts= per far arrivare gli alerts a quel player o ruolo         |
-         baseshield.admin= per fare i comandi elencati -------------------------------
+2° Comando: /shield reset <player> (Resetta i flag di quel player)                               
+PERMESSI:                                                                                 
+         baseshield.alerts= per far arrivare gli alerts a quel player o ruolo         
+         baseshield.admin= per fare i comandi elencati su COMANDI
 ----------------------------------------------------------------------------------------------------------------------------
