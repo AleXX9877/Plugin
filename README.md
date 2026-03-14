@@ -16,3 +16,20 @@ il primo plugin (deepecho)
  1.Inspect = staffeye.inspect
  2.Vanish = staffeye.vanish
  3.Se reload = staffeye.admin
+----------------------------------------------------------------------------------------------------------------------------
+il quinto plugin (BaseSheild) "AntiCheat semplice"
+FUNZIONALITÀ:
+1° funzionalità: - Fly check
+                 - Speed Check
+                 - Fast-break check
+                 - NoFall check ( se un player è ad altezza più di 3 blocchi d'altezza, se non prende danno da caduta lo segnala)
+2° funzionalità: Salva tutti i flag su un file .json nella cartella del plugin
+3° funzionalità: Si può ovviamente modificare i check eche deve fare sul file config.yml sempre nella cartella del plugin
+COMANDI:
+1° Comando: /shield lookup <player> (controlla i flag del player salvati nel file .json)
+2° Comando: /shield reset <player> (Resetta i flag di quel player) <-------------------
+                                                                                      |
+PERMESSI:                                                                             |    
+         baseshield.alerts= per far arrivare gli alerts a quel player o ruolo         |
+         baseshield.admin= per fare i comandi elencati -------------------------------
+----------------------------------------------------------------------------------------------------------------------------
