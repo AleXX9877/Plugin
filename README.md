@@ -9,8 +9,8 @@ il primo plugin (deepecho)
  2° Funzionalità:Se un creeper esplode i blocchi distrutti despawnano e il buco ,creato dall'esplosione del creeper, viene ricostruito blocco per blocco in 10 secondi
  ----------------------------------------------------------------------------------------------------------------------------
  il quarto plugin (StaffEye)
- 1° funzionalità: Facendo /inspect <player> ti dice il nome, l'IP del player, ping e le coordinate dove si trova al momento che è stato eseguito il comando
- 2° funzionalità: /vanish ti mette invisibile ssenza particelle e scompari dalla TABLIST come fossi offline
+ 1° funzionalità: Facendo /inspect "player" ti dice il nome, l'IP del player, ping e le coordinate dove si trova al momento che è stato eseguito il comando
+ 2° funzionalità: /vanish ti mette invisibile senza particelle e scompari dalla TABLIST come fossi offline
  3° comando: /se reload
  Permessi=
  1.Inspect = staffeye.inspect
