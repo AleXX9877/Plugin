@@ -43,4 +43,21 @@ COMANDI:
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-il settimo plugin ()
+il settimo plugin (MainTenanceMode)
+Funzionalità:
+1° funzionalità: mettere in modalità manutenzione il server facendo in modo che solo i player con l'operatore (/op) possano entrare mentre il server è in manutenzione
+2° funzionalità: Si possono modificare i messaggi che da la console al player quando gli vieta di entrare nel server (plugins/MaintenanceMode/config.yml)
+COMANDI:
+1° comando: /maintenance on
+descrizione: mette in modalità manutenzione il server facendo in modo che solo i player con l'operatore (/op) possano entrare mentre il server è "privato ai player non staffer (operatori)"
+
+----------------------------------------------------------------------------------------------------------------------------
+
+l'ottavo plugin (FakeEssentialsX) 😂
+funzionalità:
+1° funzionalità: /fly, permette di volare
+2° funzionalità: /vanish, ti rende invisibile ai player e nella tablist
+3° funzionalità: /feed, ti rigenera i "cosciotti" di fame
+4: funzionalità: /heal, ti rigenera i cuori di vita
+
+----------------------------------------------------------------------------------------------------------------------------
