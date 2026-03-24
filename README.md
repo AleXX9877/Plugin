@@ -36,7 +36,6 @@ il sesto plugin (CrystalVPN)
 Funzionalità:
 1° fuzionalità: Registrare per ogni player che entra l'ip, Viene saslvato su file .json (data.json) inteoria
 2° funzionalità: facendo il comando /crystalvpn "player_da_verificare" o /cvpn "player_da_verificare" ti dirà in che posizione si trova nel momento in cui è stato eseguito il comando e l'IP del player.
-
 COMANDI: 
 /crystalvpn "player_da_verificare" o /cvpn "player_da_verificare"
 ----------------------------------------------------------------------------------------------------------------------------
