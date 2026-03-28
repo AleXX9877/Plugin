@@ -54,3 +54,8 @@ funzionalità:
 3° funzionalità: /feed, ti rigenera i "cosciotti" di fame
 4: funzionalità: /heal, ti rigenera i cuori di vita
 ----------------------------------------------------------------------------------------------------------------------------
+il nono plugin (StaffTools)
+Comandi /dupeip "player"
+Funzonalità: Controlla l'ip del player e controlla quanti account ha collegati da quell'ip con cui si è connesso, se uno o più account su quel ip sono online nel server vengono scritti in verde, se sono offline in grigio e se se sono bannati in rosso
+Permessi: "staff.dupeip" per accedere al comando
+----------------------------------------------------------------------------------------------------------------------------
